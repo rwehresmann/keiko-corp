@@ -8,7 +8,7 @@
          url('../fonts/opensans-regular.svg#LatoRegular') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: swap;
 }
 
 
@@ -21,7 +21,7 @@
          url('../fonts/opensans-bold.svg#LatoRegular') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: swap;
 }
 
 
@@ -34,14 +34,8 @@
          url('../fonts/opensans-semibold.svg#open_sanssemibold') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: swap;
 }
-
-
-
-
-
-
 
 section, footer {
 	background: #fffcfc;
@@ -62,15 +56,6 @@ a:focus{
 .container{
 	max-width: 1130px;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Header 		*/
 
